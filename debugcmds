@@ -1,0 +1,7 @@
+break main.c:29
+break main.c:31
+run
+p *arr->array@21
+continue
+p *arr->array@21
+continue
